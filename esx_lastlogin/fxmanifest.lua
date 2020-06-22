@@ -1,4 +1,4 @@
--- Created by @murfasa https://forum.cfx.re/u/murfasa
+-- Created by @MINO https://forum.cfx.re/t/release-esx-lastlogin/1377160
 fx_version "adamant"
 game "gta5"
 
